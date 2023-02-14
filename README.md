@@ -1,16 +1,25 @@
-# my_portfolio
 
-A new Flutter project.
+ ⭐️ ⭐️ Flutter web image silder using the carousel slider ⭐️ ⭐️
 
-## Getting Started
+This code was simple image slider for animals using the famous dart tool called the carousel slider that allows you to move within images and containers and you can  also play with the screen by adding the aspect ration and you can choose to make it autoplaying the images or not
 
-This project is a starting point for a Flutter application.
+My linkedid 
+https://www.linkedin.com/in/abdessamed-zakaria-djellouli-05a27b222/
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+💻 Requirements
+Any Operating System (MacOS, Linux, Windows)
+Any IDE with Flutter SDK installed (Android Studio, VSCode , sublime etc),
+This code is also responsive
+
+💻 Author
+Djellouli Abdessamed Zakaria
+
+
+
+
+
+
+
+
