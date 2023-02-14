@@ -3,7 +3,7 @@
 
 This code was simple image slider for animals using the famous dart tool called the carousel slider that allows you to move within images and containers and you can  also play with the screen by adding the aspect ration and you can choose to make it autoplaying the images or not
 
-My linkedid 
+My linkedin
 https://www.linkedin.com/in/abdessamed-zakaria-djellouli-05a27b222/
 
 
