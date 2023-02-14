@@ -16,6 +16,9 @@ This code is also responsive
 💻 Author
 Djellouli Abdessamed Zakaria
 
+![Platypus](https://user-images.githubusercontent.com/69325676/218889084-8adefeb7-f195-4ff1-8429-9508616f5a6f.PNG)
+![parrot](https://user-images.githubusercontent.com/69325676/218889235-b29da894-612d-4a2b-beda-94a9247317a4.PNG)
+![lion](https://user-images.githubusercontent.com/69325676/218889610-1e0786b7-7008-4420-9186-37de2128c2b0.PNG)
 
 
 
